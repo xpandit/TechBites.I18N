@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Code/MultiLingualAppAndroid/MultiLingualAppAndroid/MultiLingualAppAndroid.csproj.user
+/Code/MultiLingualAppAndroid/MultiLingualAppAndroid/Resources/Resource.Designer.cs
+/Code/MultiLingualAppAndroid/MultiLingualAppAndroid/obj/Debug
+/Code/MultiLingualAppAndroid/MultiLingualAppAndroid/bin/Debug
+/Code/MultiLingualAppAndroid/.vs/MultiLingualAppAndroid/v14
